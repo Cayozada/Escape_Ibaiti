@@ -1,7 +1,7 @@
 # Escape_Ibaiti
 **Jogo de aventura e ação feito em lua pelo software TIC-80**
 
-**Voce pode joga-lo [aqui]()**
+**Voce pode joga-lo [aqui](https://cayozada.github.io/Escape_Ibaiti/)**
 ## Historia
 **Renan e um flamenguista da cidade de ibaiti, que foi preso em um calabouco por discordar da maioria da populacao da cidade,
 agora ele precisa fugir e encontrar respostas**

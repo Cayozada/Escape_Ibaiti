@@ -12,4 +12,8 @@ agora ele precisa fugir e encontrar respostas**
 
 **chaves e portas sao interativas automaticamente**
 
+## Ideias futuras
+- Adaptar para a engine do **gamemaker**
+
+
 **OBS: esse jogo foi feito com base e durante o curso de criação de jogos com lua na alura, sob a tutoria de Guilherme Silveira e roteiro por Jeferson Silva**
